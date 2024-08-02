@@ -3,10 +3,10 @@ A criação deste repositório foi requerido aos bolsistas do programa da ***Com
 
 ## <img width="40" height="40" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"> Olá, eu sou a Mayara Marques! °‧★‧₊˚⋅ᡣ𐭩⋆.˚
 
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td>
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/e692692e-0491-4e72-a35f-52145e7eb8c1" alt="Mayara">
+    <td style="width: 2800px; height: 280px; overflow: auto;">
+  <img width="200" height="200" src="https://github.com/user-attachments/assets/e692692e-0491-4e72-a35f-52145e7eb8c1" alt="Mayara" style="width: 100%; height: auto;">
     </td>
     <td>
       <pre>

@@ -5,7 +5,7 @@ A criação deste repositório foi requerido aos bolsistas do programa da ***Com
   
   <table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td style="width: 200px; height: 200px; overflow: auto;">
+    <td style="width: 300px; height: 300px; overflow: auto;">
       <img src="https://github.com/user-attachments/assets/e692692e-0491-4e72-a35f-52145e7eb8c1" alt="Mayara" style="width: 100%; height: auto;">
     </td>
     <td>

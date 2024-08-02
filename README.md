@@ -3,18 +3,30 @@ A criação deste repositório foi requerido aos bolsistas do programa da ***Com
 
 ## <img width="40" height="40" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"> Olá, eu sou a Mayara Marques! °‧★‧₊˚⋅ᡣ𐭩⋆.˚
 
-<p align="left">
+<table>
+  <tr>
+    <td>
   <img width="200" height="200" src="https://github.com/user-attachments/assets/e692692e-0491-4e72-a35f-52145e7eb8c1" alt="Mayara">
-    
-  ```plaintext
+    </td>
+    <td>
+      <pre>
     ₍ᐢ..ᐢ₎ Pronomes: Ela/Dela
     ₍ᐢ..ᐢ₎ Tenho 19 anos
     ₍ᐢ..ᐢ₎ Moro na cidade de Três Lagoas - MS
-    ₍ᐢ..ᐢ₎ Estou cursando Sistemas de Informação na UFMS CPTL II
-    ₍ᐢ..ᐢ₎ Ainda estou finalizando meu README.md...
-  ```
-  
-</p>
+    ₍ᐢ..ᐢ₎ Estou cursando Sistemas de Informação na UFMS CPTL II - 4º Semestre
+    ₍ᐢ..ᐢ₎ Sobre meus conhecimentos:
+        ✧ Disciplinas finalizadas da faculdade até então;
+        ✧ Um pouco sobre métodos ágile e suas ferramentas
+        (Trello, GIT para trabalhos acadêmicos e um pouco do Jira);
+        ✧ Extra: Na minha escola (SESI) eu sempre procurava participar
+        das atividades de robótica (utilizavamos LEGO e EV3);
+    ₍ᐢ..ᐢ₎ Hobbies: AMO desenhar (digital e no papel); gosto de jogar em call com amigos;
+        gosto de ler mangás e assistir animes/séries
+     </pre>
+    </td>
+  </tr>
+</table>
+₍ᐢ..ᐢ₎ Pretendo atualizar esse markdown ao deccorer do programa de bolsas, adicionar conhecimentos e seções para ficar mais completo.
 
 ## <img width="40" height="40" src="https://i.pinimg.com/originals/44/d3/e4/44d3e4885b215238e1ca71c925ceea52.gif">  Sprints☆‧ᡣ⋆.˚⋆
 

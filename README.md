@@ -10,18 +10,17 @@ A criação deste repositório foi requerido aos bolsistas do programa da ***Com
     </td>
     <td>
       <pre>
-    ₍ᐢ..ᐢ₎ Pronomes: Ela/Dela
-    ₍ᐢ..ᐢ₎ Tenho 19 anos
-    ₍ᐢ..ᐢ₎ Moro na cidade de Três Lagoas - MS
-    ₍ᐢ..ᐢ₎ Estou cursando Sistemas de Informação na UFMS CPTL II - 4º Semestre
-    ₍ᐢ..ᐢ₎ Sobre meus conhecimentos:
-        ✧ Disciplinas finalizadas da faculdade até então;
-        ✧ Um pouco sobre métodos ágile e suas ferramentas
-        (Trello, GIT para trabalhos acadêmicos e um pouco do Jira);
-        ✧ Extra: Na minha escola (SESI) eu sempre procurava participar
-        das atividades de robótica (utilizavamos LEGO e EV3);
-    ₍ᐢ..ᐢ₎ Hobbies: AMO desenhar (digital e no papel); gosto de jogar em call com amigos;
-        gosto de ler mangás e assistir animes/séries
+        
+  ₍ᐢ..ᐢ₎ Pronomes: Ela/Dela
+        
+    
+  ₍ᐢ..ᐢ₎ Tenho 19 anos
+  
+    
+  ₍ᐢ..ᐢ₎ Moro na cidade de Três Lagoas - MS
+    
+  
+  ₍ᐢ..ᐢ₎ Estou cursando Sistemas de Informação na UFMS CPTL II - 4º Semestre
      </pre>
     </td>
   </tr>

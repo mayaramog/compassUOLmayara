@@ -1,8 +1,8 @@
 # Sprint 1 ⋆
 ## Sumário
-- ### [Conteúdos da Udemy](https://github.com/mayaramog/compassUOLmayara/blob/44e064a63f7c4eb1a8efa206b937e3c0dda94041/Sprint1/README.md#L4)
-- ### [Desafios propostos na Sprint](https://github.com/mayaramog/compassUOLmayara/blob/44e064a63f7c4eb1a8efa206b937e3c0dda94041/Sprint1/README.md#L32)
-- ### [Repositório e apresentação no GitHub](https://github.com/mayaramog/compassUOLmayara/blob/44e064a63f7c4eb1a8efa206b937e3c0dda94041/Sprint1/README.md#L37)
+- ### [Conteúdos da Udemy](https://github.com/mayaramog/compassUOLmayara/edit/main/Sprint1/README.md#conte%C3%BAdos-da-udemy-1)
+- ### [Desafios propostos na Sprint](https://github.com/mayaramog/compassUOLmayara/edit/main/Sprint1/README.md#desafios-propostos-na-sprint-1)
+- ### [Repositório e apresentação no GitHub](https://github.com/mayaramog/compassUOLmayara/edit/main/Sprint1/README.md#reposit%C3%B3rio-e-apresenta%C3%A7%C3%A3o-no-github)
 
 ## Conteúdos da Udemy
  - ### Linux para desenvolvedores
@@ -39,7 +39,7 @@ Segue abaixo um link para a minha apresentação README na formataçãod de Mark
 
 <div>
 
-✧ [Apresentação Mayara - README.md](/workspaces/compassUOLmayara/README.md) 
+✧ [Apresentação Mayara - README.md](compassUOLmayara/README.md) 
 </div>
 
 > [!NOTE]

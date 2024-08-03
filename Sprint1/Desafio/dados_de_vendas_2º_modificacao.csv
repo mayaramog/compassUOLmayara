@@ -1,0 +1,41 @@
+id,produto,quantidade,preço,data
+1,arroz,2,89.23,01/01/2023
+2,feijão,10,146.86,01/01/2023
+3,carro ford,5,10.02,02/01/2023
+4,mouse razer deathadder,20,67.44,02/01/2023
+5,miojo turma da mônica,3,37.88,03/01/2023
+6,água sanitária,22,27.54,03/01/2023
+7,desodorante rexona,19,45.39,04/01/2023
+8,action figure hatsune miku,20,75.66,04/01/2023
+9,peruca azul marinho,8,85.39,05/01/2023
+10,capinha de celular iphone 14,7,112.38,06/01/2023
+11,vassoura rosa,6,89.65,07/01/2023
+12,guitarra branca,4,140.19,08/01/2023
+13,noteboock asus,12,48.85,09/01/2023
+14,kit desenho,2,176.84,10/01/2023
+15,estojo de estrela,9,15.2,11/01/2023
+16,frutos do mar,15,137.39,12/01/2023
+17,kit de toalhas,18,89.29,13/01/2023
+18,tinta verde,30,116.15,14/01/2023
+19,headset redragon,25,36.67,15/01/2023
+20,pulseira miçanga,10,47.64,16/01/2023
+21,pulseira de prata,12,162.14,17/01/2023
+22,aquario,8,193.97,18/01/2023
+23,ração,6,69.55,19/01/2023
+24,camiseta laranja,4,141.54,20/01/2023
+25,saco de maças,5,176.51,21/01/2023
+26,pilhas,7,179.98,22/01/2023
+27,cadeira de madeira,6,26.16,23/01/2023
+28,sofá,10,17.42,24/01/2023
+29,moletom,20,42.27,25/01/2023
+30,ukulele,4,176.85,26/01/2023
+31,teclado de brinquedo,8,28.69,27/01/2023
+32,sorvete de morango,2,90.01,28/01/2023
+33,chocolate lacta branco,1,192.0,29/01/2023
+34,mesa digitalizadora,3,111.3,30/01/2023
+35,celular usado,2,141.46,31/01/2023
+36,tijolo,2,69.95,31/01/2023
+37,bolsa marrom,5,140.44,01/02/2023
+38,bolsa rosa,4,168.58,02/02/2023
+39,mochila vermelha,6,13.47,03/02/2023
+40,sapato de salto alto,7,152.53,04/02/2023

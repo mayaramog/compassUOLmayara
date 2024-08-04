@@ -2,7 +2,8 @@
 ## Sumário
 - ### [Conteúdos da Udemy](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#conteúdos-da-udemy-1)
 - ### [Desafios propostos na Sprint](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#desafios-propostos-na-sprint-1)
-- ### [Repositório e apresentação no GitHub](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#reposit%C3%B3rio-e-apresenta%C3%A7%C3%A3o-no-github)
+- ### [Repositório e apresentação no GitHub](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#-repositório-e-apresentação-no-github)
+- ### [Prática de comandos Linux e Markdown](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#-repositório-e-apresentação-no-github)
 
 ## Conteúdos da Udemy
  - ### Linux para desenvolvedores
@@ -39,7 +40,7 @@ Segue abaixo um link para a minha apresentação README na formataçãod de Mark
 
 <div>
 
-✧ [Apresentação Mayara - README.md](github.com/mayaramog/compassUOLmayara/README.md) 
+✧ [Repósitorio Mayara](github.com/mayaramog/compassUOLmayara) 
 </div>
 
 > [!NOTE]

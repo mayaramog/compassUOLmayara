@@ -40,7 +40,7 @@ Segue abaixo um link para a minha apresentação README na formataçãod de Mark
 
 <div>
 
-✧ [Repósitorio Mayara](github.com/mayaramog/compassUOLmayara) 
+✧ [Repósitorio Mayara -> README.md](https://github.com/mayaramog/compassUOLmayara/tree/main?tab=readme-ov-file#readme)
 </div>
 
 > [!NOTE]

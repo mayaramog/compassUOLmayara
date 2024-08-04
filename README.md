@@ -67,4 +67,4 @@ A criação deste repositório foi requerido aos bolsistas do programa da ***Com
 ## <img width="40" height="40" src="https://i.pinimg.com/originals/44/d3/e4/44d3e4885b215238e1ca71c925ceea52.gif">  Sprints☆‧ᡣ⋆.˚⋆
 
 - Métodologia Ágile
-1. [Sprint1](/workspaces/compassUOLmayara/Sprint1)
+1. [Sprint1](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1)

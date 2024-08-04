@@ -3,7 +3,7 @@
 - ### [Conteúdos da Udemy](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#conteúdos-da-udemy-1)
 - ### [Desafios propostos na Sprint](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#desafios-propostos-na-sprint-1)
 - ### [Repositório e apresentação no GitHub](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#-repositório-e-apresentação-no-github)
-- ### [Prática de comandos Linux e Markdown](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#-repositório-e-apresentação-no-github)
+- ### [Prática de comandos Linux e Markdown](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#-prática-de-comandos-linux-e-markdown)
 
 ## Conteúdos da Udemy
  - ### Linux para desenvolvedores
@@ -60,11 +60,11 @@ Segue abaixo um link para a minha apresentação README na formataçãod de Mark
 
 Caminho para a pasta da entrega com **todos** arquivos exigidos para o desafio: [Link](github.com/mayaramog/compassUOLmayara/Sprint1/Desafio).
 
-- Arquivo executável [processamento_de_vendas](github.com/mayaramog/compassUOLmayara/Sprint1/Desafio/ecommerce/ecommerce/processamento_de_vendas.sh)
-- Arquivo executável [consolidador_de_processamento_de_vendas](github.com/mayaramog/compassUOLmayara/Sprint1/Desafio/ecommerce/ecommerce/consolidador_de_processamento_de_vendas.sh)
-- Original [dados_de_vendas](github.com/mayaramog/compassUOLmayara/Sprint1/Desafio/ecommerce/ecommerce/dados_de_vendas.csv)
-- 2º modificação [dados_de_vendas](github.com/mayaramog/compassUOLmayara/Sprint1/Desafio/dados_de_vendas_2º_modificacao.csv)
+- Arquivo executável [processamento_de_vendas](github.com/mayaramog/compassUOLmayara/main/Sprint1/Desafio/ecommerce/ecommerce/processamento_de_vendas.sh)
+- Arquivo executável [consolidador_de_processamento_de_vendas](github.com/mayaramog/compassUOLmayara/main/Sprint1/Desafio/ecommerce/ecommerce/consolidador_de_processamento_de_vendas.sh)
+- Original [dados_de_vendas](github.com/mayaramog/compassUOLmayara/main/Sprint1/Desafio/ecommerce/ecommerce/dados_de_vendas.csv)
+- 2º modificação [dados_de_vendas](github.com/mayaramog/compassUOLmayara/main/Sprint1/Desafio/dados_de_vendas_2º_modificacao.csv)
 - 3º modificação [dados_de_vendas]()
 - Modificação do [processamento_de_vendas]() para a impressão dos produtos no terminal
 - Pasta de [Evidências]() com as imagens/prints obtidos durante a realização do desafio
-- As pastas [Certificados](github.com/mayaramog/compassUOLmayara/Sprint1/Certificados) e [Exercicios](github.com/mayaramog/compassUOLmayara/Sprint1/Exercicios) estão vazias pois não houve desafios na Sprint e certificados fora da Udemy
+- As pastas [Certificados](github.com/mayaramog/compassUOLmayara/main/Sprint1/Certificados) e [Exercicios](github.com/mayaramog/compassUOLmayara/main/Sprint1/Exercicios) estão vazias pois não houve desafios na Sprint e certificados fora da Udemy

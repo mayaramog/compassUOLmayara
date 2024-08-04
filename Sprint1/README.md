@@ -58,13 +58,13 @@ Segue abaixo um link para a minha apresentação README na formataçãod de Mark
 
 ### 1. Entregáveis
 
-Caminho para a pasta da entrega com **todos** arquivos exigidos para o desafio: [Link](github.com/mayaramog/compassUOLmayara/Sprint1/Desafio).
+Caminho para a pasta da entrega com **todos** arquivos exigidos para o desafio: [Link](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1/Desafio).
 
-- Arquivo executável [processamento_de_vendas](github.com/mayaramog/compassUOLmayara/main/Sprint1/Desafio/ecommerce/ecommerce/processamento_de_vendas.sh)
-- Arquivo executável [consolidador_de_processamento_de_vendas](github.com/mayaramog/compassUOLmayara/main/Sprint1/Desafio/ecommerce/ecommerce/consolidador_de_processamento_de_vendas.sh)
-- Original [dados_de_vendas](github.com/mayaramog/compassUOLmayara/main/Sprint1/Desafio/ecommerce/ecommerce/dados_de_vendas.csv)
-- 2º modificação [dados_de_vendas](github.com/mayaramog/compassUOLmayara/main/Sprint1/Desafio/dados_de_vendas_2º_modificacao.csv)
+- Arquivo executável [processamento_de_vendas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint1/Desafio/ecommerce/ecommerce/processamento_de_vendas.sh)
+- Arquivo executável [consolidador_de_processamento_de_vendas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint1/Desafio/ecommerce/ecommerce/consolidador_de_processamento_de_vendas.sh)
+- Original [dados_de_vendas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint1/Desafio/ecommerce/ecommerce/dados_de_vendas.csv)
+- 2º modificação [dados_de_vendas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint1/Desafio/dados_de_vendas_2º_modificacao.csv)
 - 3º modificação [dados_de_vendas]()
 - Modificação do [processamento_de_vendas]() para a impressão dos produtos no terminal
-- Pasta de [Evidências]() com as imagens/prints obtidos durante a realização do desafio
+- Pasta de [Evidências](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1/Evidências)
 - As pastas [Certificados](github.com/mayaramog/compassUOLmayara/main/Sprint1/Certificados) e [Exercicios](github.com/mayaramog/compassUOLmayara/main/Sprint1/Exercicios) estão vazias pois não houve desafios na Sprint e certificados fora da Udemy

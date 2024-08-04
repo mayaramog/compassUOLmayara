@@ -1,8 +1,8 @@
 # Sprint 1 ⋆
 ## Sumário
-- ### [Conteúdos da Udemy](https://github.com/mayaramog/compassUOLmayara/main/Sprint1/README.md#conte%C3%BAdos-da-udemy-1)
-- ### [Desafios propostos na Sprint](https://github.com/mayaramog/compassUOLmayara/main/Sprint1/README.md#desafios-propostos-na-sprint-1)
-- ### [Repositório e apresentação no GitHub](https://github.com/mayaramog/compassUOLmayara/main/Sprint1/README.md#reposit%C3%B3rio-e-apresenta%C3%A7%C3%A3o-no-github)
+- ### [Conteúdos da Udemy](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#conteúdos-da-udemy-1)
+- ### [Desafios propostos na Sprint](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#desafios-propostos-na-sprint-1)
+- ### [Repositório e apresentação no GitHub](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#reposit%C3%B3rio-e-apresenta%C3%A7%C3%A3o-no-github)
 
 ## Conteúdos da Udemy
  - ### Linux para desenvolvedores

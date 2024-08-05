@@ -1,7 +1,7 @@
 # Desafios propostos na Sprint 1
 Nesta seção será apresentado um guia de resolução dos desafios propostos na Sprint, contendo a explicação com textos e imagens, além de comentários sobre as dificuldades encontradas ao longo da Sprint, pontos que pretendo melhorar na próxima Sprint e explicação dos conteúdos vistos fora da Udemy propostos.
-- ### [Repositório e apresentação no GitHub]() 
-- ### [Prática e comandos Linux e Markdown]()
+- ### [Repositório e apresentação no GitHub](/Sprint1/Desafio#repositório-e-apresentação-no-github) 
+- ### [Prática e comandos Linux e Markdown](/Sprint1/Desafio#prática-e-comandos-linux-e-markdown)
 
 ## ✩ Repositório e apresentação no GitHub
 Segue abaixo um link para a minha apresentação README na formataçãod de Markdown como foi proposto:
@@ -14,12 +14,12 @@ Segue abaixo um link para a minha apresentação README na formataçãod de Mark
 
 ## ✩ Prática de comandos Linux e Markdown
 ### Etapas
-- [1.Entregáveis]()
-- [2.Preparação]()
-- [3.Desafio]()
-- [3.1.Criar arquivo executável]()
-- [3.2.Agendar a execução do processamento]()
-- [3.3.Criar novo relatório]()
+- [1.Entregáveis](/Sprint1/Desafio/#1-entregáveis)
+- [2.Preparação](/Sprint1/Desafio/#2-preparação)
+- [3.Desafio](/Sprint1/Desafio/#3-desafio)
+- [3.1.Criar arquivo executável](/Sprint1/Desafio/#31-criar-arquivo-executável)
+- [3.2.Agendar a execução do processamento](/Sprint1/Desafio/#32-agendar-a-execução-do-processamento)
+- [3.3.Criar novo relatório](/Sprint1/Desafio/#33-criar-novo-relatório)
 
 ### 1. Entregáveis
 
@@ -63,6 +63,7 @@ Adicionei os comandos no executável, utilziando Script Shell, seguindo os passo
 
 > [!NOTE]
 > Não é o segundo registro, mas sim o primeiro, a correção já foi efetuada no arquivo!!
+
 ![processamento_de_vendas.sh](/Sprint1/Evidências/codigoProcessamento2.png)
 
 ![processamento_de_vendas.sh](/Sprint1/Evidências/codigoProcessamento3.png)

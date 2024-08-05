@@ -1,9 +1,9 @@
 # Sprint 1 ⋆
 ## Sumário
 - ### [Conteúdos da Udemy](/Sprint1#conteúdos-da-udemy-1)
-- ### [Desafios propostos na Sprint 1]()
-- ### [Dificuldades encontradas]()
-- ### [Pontos a melhorar para a próxima Sprint]()
+- ### [Desafios propostos na Sprint 1](/Sprint1#desafios-propostos-na-sprint)
+- ### [Dificuldades encontradas](/Sprint1#dificuldades-encontradas)
+- ### [Pontos a melhorar para a próxima Sprint](/Sprint1#pontos-a-melhorar-para-a-próxima-sprint)
 
 
 ## Conteúdos da Udemy
@@ -34,7 +34,7 @@ Alguns tópicos abordados:
  ```
 
 ## Desafios propostos na Sprint
-A descrição do desafio está presente na área do desafio, juntamente com os arquivos, segue o link para os tópicos guia apresentados:
+A descrição do processo de resolução do desafio está presente na área do desafio, juntamente com os arquivos, segue o link para os tópicos apresentados:
 - ### [Desafios propostos na Sprint 1](/Sprint1/Desafio/)
 - ### [README do desafio](/Sprint1/Desafio/README.md)
 - ### [Arquivos gerados](/Sprint1/Desafio/Entregáveis/ecommerce/)

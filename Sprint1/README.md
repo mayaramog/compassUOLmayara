@@ -1,9 +1,10 @@
 # Sprint 1 ⋆
 ## Sumário
-- ### [Conteúdos da Udemy](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#conteúdos-da-udemy-1)
-- ### [Desafios propostos na Sprint](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#desafios-propostos-na-sprint-1)
-- ### [Repositório e apresentação no GitHub](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#-repositório-e-apresentação-no-github)
-- ### [Prática de comandos Linux e Markdown](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1#-prática-de-comandos-linux-e-markdown)
+- ### [Conteúdos da Udemy](/Sprint1#conteúdos-da-udemy-1)
+- ### [Desafios propostos na Sprint 1]()
+- ### [Dificuldades encontradas]()
+- ### [Pontos a melhorar para a próxima Sprint]()
+
 
 ## Conteúdos da Udemy
  - ### Linux para desenvolvedores
@@ -33,38 +34,32 @@ Alguns tópicos abordados:
  ```
 
 ## Desafios propostos na Sprint
-Nesta seção será apresentado um guia de resolução dos desafios propostos na Sprint, contendo a explicação com textos e imagens, além de comentários sobre as dificuldades encontradas ao longo da Sprint, pontos que pretendo melhorar na próxima Sprint e explicação dos conteúdos vistos fora da Udemy propostos.
+A descrição do desafio está presente na área do desafio, juntamente com os arquivos, segue o link para os tópicos guia apresentados:
+- ### [Desafios propostos na Sprint 1](/Sprint1/Desafio/)
+- ### [README do desafio](/Sprint1/Desafio/README.md)
+- ### [Arquivos gerados](/Sprint1/Desafio/Entregáveis/ecommerce/)
+- ### [Evidências que alimentam a explicação do processo do desafio](/Sprint1/Evidências/)
 
-### ✩ Repositório e apresentação no GitHub
-Segue abaixo um link para a minha apresentação README na formataçãod de Markdown como foi proposto:
+## Dificuldades encontradas
 
-<div>
+### 1. Gestão de tempo
 
-✧ [Repósitorio Mayara -> README.md](https://github.com/mayaramog/compassUOLmayara/tree/main?tab=readme-ov-file#readme)
-</div>
+Tive dificuldade em conciliar as aulas com o desafio, não consegui utilizar somente o tempo do estágio (08:30 - 12:30 SP) para realizar os desafios propostos.
 
-> [!NOTE]
-> Utilizei um pouco de HTML para uma formatação mais espefícica dos gifs e imagem.
+### 2. Organização de tarefas
 
-### ✩ Prática de comandos Linux e Markdown
-### Etapas
-- 1.Entregáveis
-- 2.Preparação
-- 3.Desafio
-- 3.1.Criar arquivo executável
-- 3.2.Agendar a execução do processamento
-- 3.3.Criar novo relatório
-- (EXTRA) Modificação para a impressão dos produtos no terminal 
+Sinto que não organizei bem sobre o que fazer no dia, acabei me confundindo entre ver aulas e realizar o desafio, parecia que meus dias não rendiam.
 
-### 1. Entregáveis
+## Pontos a melhorar para a próxima Sprint
 
-Caminho para a pasta da entrega com **todos** arquivos exigidos para o desafio: [Link](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1/Desafio).
+### 1. Gestão de tempo
 
-- Arquivo executável [processamento_de_vendas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint1/Desafio/ecommerce/ecommerce/processamento_de_vendas.sh)
-- Arquivo executável [consolidador_de_processamento_de_vendas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint1/Desafio/ecommerce/ecommerce/consolidador_de_processamento_de_vendas.sh)
-- Original [dados_de_vendas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint1/Desafio/ecommerce/ecommerce/dados_de_vendas.csv)
-- 2º modificação [dados_de_vendas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint1/Desafio/dados_de_vendas_2º_modificacao.csv)
-- 3º modificação [dados_de_vendas]()
-- Modificação do [processamento_de_vendas]() para a impressão dos produtos no terminal
-- Pasta de [Evidências](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1/Evidências)
-- As pastas [Certificados](github.com/mayaramog/compassUOLmayara/main/Sprint1/Certificados) e [Exercicios](github.com/mayaramog/compassUOLmayara/main/Sprint1/Exercicios) estão vazias pois não houve desafios na Sprint e certificados fora da Udemy
+Verificar a quantidade de videoaulas e já ficar a par do desafio para evitar perca de tempo. Pretendo não utilizar o tempo fora do estágio para realizar as tarefas.
+
+### 2. Organização de tarefas
+
+Me situar do desafio logo no inicio para identificar se devo ver videoaulas ou já iniciar o desafio. Pretendo também já iniciar a organização do repositório (pastas e README) e ir alimentando conforme a semana, não somente no final.
+
+### 3. Organização de commits
+
+Fiz muitos commits de teste, pretendo organizar melhor meus envios.

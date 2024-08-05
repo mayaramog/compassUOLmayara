@@ -1,0 +1,14 @@
+2024/08/04 15:27
+Primeiro registro: 2023/01/01
+Último registro: 2024/10/15
+Quantidade de produtos diferentes: 40
+id,produto,quantidade,preço,data
+66,carro importado,144,89.23,01/01/2023
+42,carregador,87,146.86,01/01/2023
+93,headset razer,203,10.02,02/01/2023
+1,pudim,500,67.44,02/01/2023
+2,mousse de marácuja,167,37.88,03/02/2023
+46,perfume mácherrie,22,27.54,03/02/2023
+76,desodorante rexona,45,34.99,04/02/2023
+13,peruca rosa choque,20,300.67,04/03/2023
+3,coxa de frango,8,68,05/03/2023

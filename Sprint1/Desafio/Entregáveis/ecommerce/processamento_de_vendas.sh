@@ -46,7 +46,7 @@ echo "Escrevendo a data do sistema no arquivo..."
 printf "%s\n" "$(date +%Y/%m/%d\ %H:%M)" > "$novo_relatorio"
 
 # Escrevendo o primeiro e ultimo registro
-echo "Escrevendo a data do segundo registro do arquivo..."
+echo "Escrevendo a data do primeiro registro do arquivo..."
 tail -n +2 "backup-$novo_nome" | head -n 1 | awk -F',' '{print $5}' | awk -F/ '{print "Primeiro registro: " $3 "/" $2 "/" $1}' >> "$novo_relatorio"
 
 # Escrever a data do último registro no arquivo relatorio.txt
@@ -62,6 +62,10 @@ printf "%s\n" "Quantidade de produtos diferentes: $qtd_prod" >> "$novo_relatorio
 
 echo "Escrevendo as 10 primeiras linhas no arquivo..."
 printf "%s\n" "$(head -n 10 "backup-$novo_nome")" >> "$novo_relatorio"
+echo "Excrevendo as 10 primeiras linhas no terminal..."
+echo ""
+echo "$(head -n 10 "backup-$novo_nome")"
+echo ""
 
 echo "Comprimindo arquivo "backup-$novo_nome"..."
 zip backup-$novo_nome.zip backup-$novo_nome

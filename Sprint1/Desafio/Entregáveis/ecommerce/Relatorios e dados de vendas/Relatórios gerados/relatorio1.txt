@@ -1,0 +1,14 @@
+2024/08/03 15:27
+Primeiro registro: 2023/01/01
+Último registro: 2023/02/04
+Quantidade de produtos diferentes: 39
+id,produto,quantidade,preço,data
+1,arroz,2,89.23,01/01/2023
+2,feijão,10,146.86,01/01/2023
+3,carro ford,5,10.02,02/01/2023
+4,mouse razer deathadder,20,67.44,02/01/2023
+5,miojo turma da mônica,3,37.88,03/01/2023
+6,água sanitária,22,27.54,03/01/2023
+7,desodorante rexona,19,45.39,04/01/2023
+8,action figure hatsune miku,20,75.66,04/01/2023
+9,peruca azul marinho,8,85.39,05/01/2023

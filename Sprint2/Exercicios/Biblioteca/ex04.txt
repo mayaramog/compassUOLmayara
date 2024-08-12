@@ -1,0 +1,9 @@
+-- Apresente a query para listar a quantidade de livros publicada por cada autor.
+-- Ordenar as linhas pela coluna nome (autor), em ordem crescente. Além desta, apresentar as colunas codautor,
+-- nascimento e quantidade (total de livros de sua autoria).
+
+SELECT a.nome, a.codAutor, a.nascimento, COUNT(l.cod) AS quantidade
+FROM Autor AS a
+	LEFT JOIN Livro AS l ON l.autor = a.codAutor
+GROUP BY a.nome
+ORDER BY a.nome ASC	

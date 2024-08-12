@@ -1,0 +1,9 @@
+-- Apresente a query para listar o nome dos autores com nenhuma publicação.
+-- Apresentá-los em ordem crescente.
+
+SELECT a.nome
+FROM Autor AS a
+    LEFT JOIN Livro AS l ON a.codAutor = l.autor 
+WHERE l.cod IS NULL    
+GROUP BY a.nome
+ORDER BY a.nome ASC

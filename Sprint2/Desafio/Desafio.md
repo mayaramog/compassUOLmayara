@@ -10,9 +10,9 @@ Nesta seção será apresentado um guia de resolução dos desafios propostos na
 
 O desafio é a **normalização** da base de dados tb_locacao, ou seja, aplicar as formas normais e depois converter o **modelo relacional** em **modelo dimensional**.
 
-1. [Download do arquivo concessionaria.zip]()
-2. [Normalizar a base de dados]()
-3. [Modelo dimensional baseado no modelo relacional]()
+1. [Download do arquivo concessionaria.zip](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint2/Desafio/Desafio.md#1-download-do-arquivo-concessionariazip)
+2. [Normalizar a base de dados](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint2/Desafio/Desafio.md#2-normalizar-a-base-de-dados)
+3. [Modelo dimensional baseado no modelo relacional](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint2/Desafio/Desafio.md#3-modelo-dimensional-baseado-no-modelo-relacional)
 
 ### 1. Download do arquivo concessionaria.zip
 O arquivo possui uma tabela tb_locacao populada, então fiz a análise dos dados para encontrar as repetições e atributos que se relacionavam entre si para realizar a normalização.

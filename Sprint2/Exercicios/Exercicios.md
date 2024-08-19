@@ -54,7 +54,7 @@ Os primeiros exercícios foram a resolução de queries em cima de dois Bancos d
 ![Imagem ex 16](/Sprint2/Evidencias/Loja/loja16.png)
 
 ## Exportação .CSV
-Além das queries, havia um exercício que era necessário exportar os resultados de duas queries do BD de Biblioteca com o formato .CSV, sendo a primeira exortação com divisor ; e a segunda com divisor |
+Além das queries, havia um exercício que era necessário exportar os resultados de duas queries do BD de Biblioteca com o formato .CSV, sendo a primeira exortação com divisor | e a segunda com divisor ;
 
 - [Exportação: 5 editoras com mais livros](/Sprint2/Exercicios/Biblioteca/Exportação%20CSV-Dados%20da%20Query/5EditorasComMaisLivros.csv)
 ![imagem exportação 1](/Sprint2/Evidencias/Biblioteca/csv5edMaisLivro.png)

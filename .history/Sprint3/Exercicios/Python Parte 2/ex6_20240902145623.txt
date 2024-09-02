@@ -1,0 +1,21 @@
+"""
+
+Intersecção entre conjuntos.
+
+O código a seguir transforma as listas em conjuntos
+através do construtor set() e realiza a Intersecção
+entre esses conjuntos.
+
+"""
+
+# Declaração das listas
+a = [1, 1, 2, 3, 5, 8, 14, 21, 34, 55, 89]
+b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+# Utilizando set() nas listas para criar conjuntos
+co_a = set(a)
+co_b = set(b)
+
+# intersection os números iguais e transformando o conjunto em lista
+inter = list(co_a.intersection(co_b))
+print(inter)

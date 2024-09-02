@@ -1,0 +1,13 @@
+"""Leitura, parsing e impressão do conteúdo de um arquivo json."""
+
+import json
+
+# Caminho para o arquivo json
+caminho = "person.json"
+
+# r = modo de leitura
+with open(caminho, "r") as arquivo:
+    # Parsing do arquivo
+    conteudo = json.load(arquivo)
+# Impressão de dados
+print(conteudo)

@@ -1,0 +1,17 @@
+"""
+
+Impressão de números primos de 1 até 100.
+
+O código imprime os números primos atráves da verificação
+dentro de um laço que itera um range(1, 101)
+
+"""
+
+for num in range(1, 101):
+    cnt = 0
+    for i in range(1, num+1):
+        if num % i == 0:
+            cnt += 1
+    if cnt == 2:
+        print(num)
+        

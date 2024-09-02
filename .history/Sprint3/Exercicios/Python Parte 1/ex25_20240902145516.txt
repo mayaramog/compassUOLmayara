@@ -1,0 +1,29 @@
+"""k"""
+
+
+class Aviao:
+    
+    cor = "Azul"
+    
+    def __init__(self, modelo: str, velocidade_maxima: int, capacidade: int) -> None:
+        self.modelo = modelo
+        self.velocidade_maxima = velocidade_maxima
+        self.capacidade = capacidade
+
+
+def impriObj(objeto: object) -> None:
+    """Essa função imprime informações de um objeto passado por parâmetro."""
+    
+    
+    print(f" O avião de modelo {objeto.modelo} possui uma velocidade máxima de {objeto.velocidade_maxima}, capacidade para {objeto.capacidade} passageiros e é da cor {objeto.cor}.")
+
+
+# Instanciando 3 objetos
+aviao1 = Aviao("BOIENG456", 1500, 400)
+aviao2 = Aviao("Embraer Praetor 600", 863, 14)
+aviao3 = Aviao("Antonov An-2", 258, 12)
+
+# Imprimindo dados do objeto com a função criada
+impriObj(aviao1)
+impriObj(aviao2)
+impriObj(aviao3)

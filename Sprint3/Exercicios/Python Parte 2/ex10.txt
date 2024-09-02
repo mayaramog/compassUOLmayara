@@ -1,0 +1,12 @@
+"""A partir de uma lista, retorna uma nova lista sem duplicações."""
+
+# Inicializando a lista
+lst = ['abc', 'abc', 'abc', '123', 'abc', '123', '123']
+
+# set() para remover duplicatas
+sem_dupla = set(lst)
+
+# Transformando conjunto em lista
+nova_lst = list(sem_dupla)
+
+print(nova_lst)

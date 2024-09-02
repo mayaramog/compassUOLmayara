@@ -1,0 +1,9 @@
+"""Imprime data no formato exigido."""
+
+# Inicialização de variáveis
+dia = 22
+mes = 10
+ano = 2022
+
+# Imprimindo no formato dia/mes/ano com f-string
+print(f"{dia}/{mes}/{ano}")

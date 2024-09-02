@@ -1,0 +1,19 @@
+"""Soma e subtracao de dois numeros com metodos da classe."""
+class Calculo:
+    def __init__(self) -> None:
+        pass
+        
+    def soma(self, a, b):
+        return a + b
+    
+    def sub(self, a, b):
+        return a - b
+
+
+# Instância da classe
+calculo = Calculo()
+x = 4 
+y = 5
+
+print(f"Somando: {x}+{y} = {calculo.soma(x, y)}")
+print(f"Subtraindo: {x}-{y} = {calculo.sub(x, y)}")

@@ -1,0 +1,14 @@
+"""
+
+Impressão de pares até 20.
+
+O código tem o objetivo de imprimir todos
+os números pares até 20, utilizando a função
+range().
+
+"""
+
+# Laço que itera o range e imprime pares
+for num in range(21):
+    if num % 2 == 0:
+        print(num)

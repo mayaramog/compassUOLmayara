@@ -1,0 +1,8 @@
+"""Le e imprime o conteúdo de um arquivo."""
+
+# Abrindo arquivo
+with open("arquivo_texto.txt", "r") as arquivo:
+    # Leitura do arquivo
+    conteudo = arquivo.read()
+    # Impressão do conteúdo sem uma linha extra
+    print(conteudo, end="")

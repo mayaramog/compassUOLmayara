@@ -69,3 +69,4 @@ A criação deste repositório foi requerido aos bolsistas do programa da ***Com
 - Métodologia Ágile
 1. [Sprint1](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint1)
 2. [Sprint2](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint2)
+3. [Sprint3](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint3)

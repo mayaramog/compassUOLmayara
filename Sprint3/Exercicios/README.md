@@ -4,7 +4,7 @@
 - ### [Python Parte 2](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint3/Exercicios/README.md#python-parte-2-1)
 - ### [ETL e Python](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint3/Exercicios/README.md#etl-e-python-1)
 
-Evitei colocar imagem das evidências para nçao ficar poluído.
+Evitei colocar imagem das evidências para não ficar poluído.
 ## Python Parte 1
 Exercicios:
 - [ex1](/Sprint3/Exercicios/Python%20Parte%201/ex1.txt)

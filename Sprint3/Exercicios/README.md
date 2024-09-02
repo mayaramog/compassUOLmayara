@@ -1,8 +1,8 @@
 # Exercicios 
 
-- ### [Python Parte 1]()
-- ### [Python Parte 2]()
-- ### [ETL e Python]()
+- ### [Python Parte 1](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint3/Exercicios/README.md#python-parte-1-1)
+- ### [Python Parte 2](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint3/Exercicios/README.md#python-parte-2-1)
+- ### [ETL e Python](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint3/Exercicios/README.md#etl-e-python-1)
 
 Evitei colocar imagem das evidências para nçao ficar poluído.
 ## Python Parte 1

@@ -108,8 +108,9 @@
 
 ## Desafios propostos na Sprint 4
 - [README.md do desafio](/Sprint4/Desafio/README.md)
-- [garguru.py](/Sprint4/Desafio/carguru/)
+- [carguru.py](/Sprint4/Desafio/carguru/)
 - [Imagem -> mascarar-dados.Dockerfile e hash](/Sprint4/Desafio/mascarar-dados%20e%20hash/)
+- [Container Python](https://hub.docker.com/_/python)
 
 ## Dificuldades encontradas
 - Não tive dificuldades com o desafio e os exercícios em si, apenas para conciliar as video aulas dos conteúdos de Docker da Udemy e AWS.

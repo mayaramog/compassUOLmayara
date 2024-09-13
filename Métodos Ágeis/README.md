@@ -1,8 +1,11 @@
 # Metodologia Ágil e Segurança ⋆
 ## Sumário
+- ### [Introdução]()
 - ### [Métodos Ágeis de A a Z - Udemy]()
 - ### [Fundamento da Segurança da Informação - Sharepoint]()
 
+## Introdução
+Foi proposto aos bolsistas realizarem a seção de Metodoligia Ágil e Segurança até a Sprint 4, como não há nenhuma emissão de certificados por fora da udemy, optei por adicionar nesse README os tópicos abordados nos cursos disponibilizados e, na paste de [Evidências](/Métodos%20Ágeis/Evidências/) há algumas imagens que provam os meus estudos e realização do Forms de Segurança. Também não houveram Desafios e Exercícios, por isso as pastas estão vazias.
 
 ## Métodos Ágeis de A a Z - Udemy
 Tópicos abordados nas aulas da Udemy referentes ao tema de Metodologia Ágil.

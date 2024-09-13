@@ -1,6 +1,7 @@
 # Sprint 4 ⋆
 ## Sumário
 - ### [Conteúdos da Udemy]()
+- ### [Curso AWS Partner:s]()
 - ### [Curso AWS Partner: Accreditation (Technical)]()
 - ### [Exercícios propostos na Sprint 4]()
 - ### [Desafios propostos na Sprint 4]()
@@ -61,12 +62,57 @@
 - 
 ```
 
+- ### Docker Para Desenvolvedores
+```
+- O que é docker, para que serve e quais suas versões
+- Instalação no Windows
+- O que são containers, imagens, diferenças da VM
+- Executar, reiniciar, iniciar e remover containers
+- Criar, alterar, nomear e remover imagens
+- Inspecionar container
+- Tipos de volumes, Anônimos e Nomeados, Bind mounts
+- Conexão de containers com networks(tipos de conexão e drivers, criar e remover redes, instalação de Postman, conectar e desconectar container)
+- Introdução ao YAML
+- Gerenciando múltiplos containers com Docker Compose
+- Docker Swarm para orquestração
+- Orquestração com Kubernetes
+```
+
+- ### Estatística Descritiva com Python (Opcional)
+```
+- Fundamentos da estatística
+    - Aleatoriedade, população e amostra, variáveis
+
+- Representações gráficas
+    - Gráficos de barras, setores, linhas e histogramas
+
+- Medidas de Tendência Central (MTC)
+    - Aritimética, moda, mediana, media, função describe()
+
+- Medidas de Dispersão (MD)
+    - Amplitude total, interquartílica, desvio medio e padrão, variação
+
+- Medidas de Assimetria (MA)
+    - Curtose, Boxplot
+
+- Aplicações em Data Science
+```
+
+## Curso AWS Partner: 
+
 ## Curso AWS Partner: Accreditation (Technical)
 
 ## Exercícios propostos na Sprint 4
+- [README.md dos exercícios](/Sprint4/Exercícios/README.md)
+- [Pasta com os Exercícios](/Sprint4/Exercícios/)
 
 ## Desafios propostos na Sprint 4
+- [README.md do desafio](/Sprint4/Desafio/README.md)
+- [garguru.py](/Sprint4/Desafio/carguru/)
+- [Imagem -> mascarar-dados.Dockerfile e hash](/Sprint4/Desafio/mascarar-dados%20e%20hash/)
 
 ## Dificuldades encontradas
+- Não tive dificuldades com o desafio e os exercícios em si, apenas para conciliar as video aulas dos conteúdos de Docker da Udemy e AWS.
 
 ## Pontos a melhorar para a próxima Sprint
+- Me organizar ainda melhor nos inícios de Sprint, delimitar melhor as tarefas a serem feitas durante os dias.

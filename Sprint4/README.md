@@ -1,7 +1,7 @@
 # Sprint 4 ⋆
 ## Sumário
 - ### [Conteúdos da Udemy]()
-- ### [Curso AWS ]()
+- ### [Curso AWS Partner: Accreditation (Technical)]()
 - ### [Exercícios propostos na Sprint 4]()
 - ### [Desafios propostos na Sprint 4]()
 - ### [Dificuldades encontradas]()
@@ -42,7 +42,26 @@
     no código e não passada por parâmetro
 ```
 
-## Curso AWS
+- ### Programação Funcional em Python
+```
+- Recursos Suportados
+    -> Python é multiparadigma
+- Funções de Primeira Classe
+- Funções de Alta Ordem
+- Closure
+- Funções Lambda
+- Alternativa às Funções Lambda
+- Map
+- Filter
+- Reduce
+- Abordagem Imperativa
+- Funções Imutalibidade #01 e #02
+- Generators #01 e #02
+- Implementando o Map #01 e #02
+- 
+```
+
+## Curso AWS Partner: Accreditation (Technical)
 
 ## Exercícios propostos na Sprint 4
 

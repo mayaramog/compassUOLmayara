@@ -100,7 +100,17 @@
 
 ## Curso AWS Technical Essentials
 
+- Instruções do curso e introdução à plataforma
+- **Módulo 1:** O que é a AWS, sobre a plataforma, acessibilidade e segurança
+- **Módulo 2:** Computação AWS, amazon EC2, introdução aos serviços, Fargate e Lambda 
+- **Módulo 3:** rede da AWS, VPC roteamento e segurança
+
 ## Curso AWS Partner: Accreditation (Technical)
+
+- [Certificado AWS](/Sprint4/Certificados/)
+- Introdução a AWS Cloud Adoption Framework
+- Introdução as estratégias de migração
+- Introdução a AWS Well-Architected Framework
 
 ## Exercícios propostos na Sprint 4
 - [README.md dos exercícios](/Sprint4/Exercícios/README.md)
@@ -108,8 +118,8 @@
 
 ## Desafios propostos na Sprint 4
 - [README.md do desafio](/Sprint4/Desafio/README.md)
-- [carguru.py](/Sprint4/Desafio/carguru/)
-- [Imagem -> mascarar-dados.Dockerfile e hash](/Sprint4/Desafio/mascarar-dados%20e%20hash/)
+- [carguru.py](/Sprint4/Desafio/carguru/carguru.py)
+- [Imagem -> mascarar-dados.Dockerfile e hash](/Sprint4/Desafio/mascarar-dados%20e%20hash//)
 - [Container Python](https://hub.docker.com/_/python)
 
 ## Dificuldades encontradas

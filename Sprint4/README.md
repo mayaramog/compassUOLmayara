@@ -1,7 +1,7 @@
 # Sprint 4 ⋆
 ## Sumário
 - ### [Conteúdos da Udemy]()
-- ### [Curso AWS Partner:s]()
+- ### [Curso AWS Technical Essentials]()
 - ### [Curso AWS Partner: Accreditation (Technical)]()
 - ### [Exercícios propostos na Sprint 4]()
 - ### [Desafios propostos na Sprint 4]()
@@ -98,7 +98,7 @@
 - Aplicações em Data Science
 ```
 
-## Curso AWS Partner: 
+## Curso AWS Technical Essentials
 
 ## Curso AWS Partner: Accreditation (Technical)
 

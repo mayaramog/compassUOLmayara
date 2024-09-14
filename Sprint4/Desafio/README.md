@@ -51,7 +51,9 @@ Como ficou os logs no DockerDesktop:
 ## Evidências extra
 
 Meu DockerDesktop:
+
 ![evi1](/Sprint4/Evidências/Preparação/dockerDesktop.png)
 
 Utilizei uma pasta da minha máquina e fiz a criação dos arquivos no Visual Studio Code:
+
 ![evi2](/Sprint4/Evidências/Preparação/ArquivosNoVSC.png)

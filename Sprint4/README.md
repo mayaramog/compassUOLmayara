@@ -100,10 +100,14 @@
 
 ## Curso AWS Technical Essentials
 
+- [Certificado AWS](/Sprint4/Certificados/1851_3_6046265_1726425963_AWS%20Course%20Completion%20Certificate.pdf)
 - Instruções do curso e introdução à plataforma
 - **Módulo 1:** O que é a AWS, sobre a plataforma, acessibilidade e segurança
 - **Módulo 2:** Computação AWS, amazon EC2, introdução aos serviços, Fargate e Lambda 
 - **Módulo 3:** rede da AWS, VPC roteamento e segurança
+- **Módulo 4:** Arquivos - Amazon EFS e FSx, bloco com Amaozn EC2 e EBS, objeto com Amazon S3, criação com Amazon S3
+-  **Módulo 5:** Databases, Amazon RDS, DynamoBD e implementação 
+- **Módulo 6:** Monitoring, Amazon CloudWatch, otimização, Elastic Loud Balancing, Amazon EC2 auto scaling
 
 ## Curso AWS Partner: Accreditation (Technical)
 

@@ -111,7 +111,7 @@
 
 ## Curso AWS Partner: Accreditation (Technical)
 
-- [Certificado AWS](/Sprint4/Certificados/)
+- [Certificado AWS](/Sprint4/Certificados/13246_3_6046265_1726428235_AWS%20Course%20Completion%20Certificate.pdf)
 - Introdução a AWS Cloud Adoption Framework
 - Introdução as estratégias de migração
 - Introdução a AWS Well-Architected Framework

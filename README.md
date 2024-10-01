@@ -71,3 +71,5 @@ A criação deste repositório foi requerido aos bolsistas do programa da ***Com
 2. [Sprint2](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint2)
 3. [Sprint3](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint3)
 4. [Sprint4](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint4)
+5. [Sprint5](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint5)
+6. [Sprint6](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint6)

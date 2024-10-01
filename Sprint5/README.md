@@ -1,10 +1,10 @@
 # Sprint 5 ⋆
 ## Sumário
-- ### [Curso AWS Cloud Quest: Cloud Practitioner]()
-- ### [Curso AWS Certified Cloud Practitioner]()
-- ### [Desafios propostos na Sprint 5]()
-- ### [Dificuldades encontradas]()
-- ### [Pontos a melhorar para a próxima Sprint]()
+- ### [Curso AWS Cloud Quest: Cloud Practitioner](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#curso-aws-cloud-quest-cloud-practitioner-1)
+- ### [Curso AWS Certified Cloud Practitioner](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#curso-aws-certified-cloud-practitioner-1)
+- ### [Desafios propostos na Sprint 5](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#desafios-propostos-na-sprint-5-1)
+- ### [Dificuldades encontradas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#dificuldades-encontradas-1)
+- ### [Pontos a melhorar para a próxima Sprint](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#pontor-a-melhorar-para-a-pr%C3%B3xima-sprint)
 
 ## Curso AWS Cloud Quest: Cloud Practitioner
 - Link da certificação: https://www.credly.com/badges/11c486c2-e633-4484-b9f2-7b58ace1d735/public_url

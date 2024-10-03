@@ -9,7 +9,7 @@
 ## Cursos AWS
 
 ### 1. Fundamentos de analytics na AWS – Parte 1
-- [Certificado](/Sprint6/Certificados/19345_5_6046265_1727882625_AWS%20Skill%20Builder%20Course%20Completion%20Certificate.pdf)
+- [Certificado](/Sprint6/Certificados/AWSfundAnalytics1.pdf)
 
 - Conteúdos:
 ```

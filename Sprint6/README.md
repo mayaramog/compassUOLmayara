@@ -1,10 +1,10 @@
 # Sprint 6 ⋆
 ## Sumário
-- ### [Cursos AWS]()
-- ### [Exercícios propostos na Sprint 6]()
-- ### [Desafios propostos na Sprint 6]()
-- ### [Dificuldades encontradas]()
-- ### [Pontos a melhorar para a próxima Sprint]()
+- ### [Cursos AWS](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint6/README.md#cursos-aws-1)
+- ### [Exercícios propostos na Sprint 6](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint6/README.md#exerc%C3%ADcios-propostos-na-sprint-6-1)
+- ### [Desafios propostos na Sprint 6](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint6/README.md#desafios-propostos-na-sprint-6-1)
+- ### [Dificuldades encontradas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint6/README.md#dificuldades-encontradas-1)
+- ### [Pontos a melhorar para a próxima Sprint](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint6/README.md#pontos-a-melhorar-para-a-pr%C3%B3xima-sprint-1)
 
 ## Cursos AWS
 

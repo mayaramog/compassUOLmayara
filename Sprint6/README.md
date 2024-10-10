@@ -142,7 +142,7 @@
 
 ## Exercícios propostos na Sprint 6
 
--
+- 1
 
 ## Desafios propostos na Sprint 6
 

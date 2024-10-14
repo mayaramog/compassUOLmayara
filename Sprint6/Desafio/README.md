@@ -10,4 +10,4 @@ Análises:
 
 - **Nota média com o passar dos anos**: A análise também deseja deve avaliar a variação na nota média dos filmes desses gêneros ao longo do tempo. A ideia seria verificar como as avaliações desses filmes mudaram ao longo das décadas, observando se houve uma tendência de melhora ou piora nas avaliações.
 
-O intuito dessas analises escolhidas por mim é verificar se houve um aumento na produção de filmes de crime/guerra ao longo das décadas e identiicar as notas, a partir dessa análise é possivel ter indagações como: "Por que houve um aumento/diminuição da produção de filmes desse estilo?", "Por que essa foi a média da nota dos filmes nessa década?", "Por que as pessoas passaram a consumir mais/menos esse tipo de gênero?".
+O intuito dessas analises escolhidas por mim é verificar se houve um aumento na produção de filmes de crime/guerra ao longo das décadas e identiicar as notas, a partir dessa análise é possivel ter indagações como: "Por que houve um aumento/diminuição da produção de filmes desse estilo?", "Por que essa foi a média da nota dos filmes nessa década?", "Por que as pessoas passaram a avaliar melhor/pior esse tipo de gênero?".

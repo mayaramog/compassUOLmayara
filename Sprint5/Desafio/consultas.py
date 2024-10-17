@@ -28,30 +28,27 @@ file_key = 'bilheteria-diaria-obras-por-exibidoras-2024-08-s04.csv'
 obj = s3.get_object(Bucket=bucket_name, Key=file_key)
 csv_data = obj['Body'].read().decode('utf-8')
 
-# Carregar o arquivo CSV em um DataFrame
-df = pd.read_csv(StringIO(csv_data), delimiter=';')
+# Carregar o arquivo CSV
+df = pd.read_csv(StringIO(csv_data), sep=';')
 
-# 1) Dois operadores lógicos
-consulta1 = df[(df['PUBLICO'] > 5) & (df['UF_SALA_COMPLEXO'] == 'BA')]
+# 4.1 Filtrar os dados usando dois operadores lógicos (ex: UF_SALA_COMPLEXO e PUBLICO)
+filtro = df[(df['UF_SALA_COMPLEXO'] == 'SP') & (df['PUBLICO'] > 10)]
 
-# 2) Duas funções de agregação (soma e contagem)
-agrupamento = df.groupby('RAZAO_SOCIAL_EXIBIDORA').agg({
-    'PUBLICO': 'sum',  # Função de agregação 1
-    'TITULO_ORIGINAL': 'count'  # Função de agregação 2 (contagem de títulos)
-})
+# 4.2 Duas funções de agregação (ex: média e soma do público por estado)
+agrupado = df.groupby('UF_SALA_COMPLEXO')['PUBLICO'].agg(['mean', 'sum']).reset_index()
 
-# 3) Função condicional
-df['classificacao'] = df['PUBLICO'].apply(lambda x: 'Público Alto' if x > 50 else 'Público Baixo')
+# 4.3 Função condicional (ex: criar uma nova coluna para indicar se o público foi maior que 10)
+df['Publico_Maior_Que_10'] = df['PUBLICO'].apply(lambda x: 'Sim' if x > 10 else 'Não')
 
-# 4) Função de conversão
+# 4.4 Função de conversão (ex: converter a coluna de público de string para float)
 df['PUBLICO'] = pd.to_numeric(df['PUBLICO'], errors='coerce')
 
-# 5) Função de data -> data para date time e pega o mês
-df['DATA_EXIBICAO'] = pd.to_datetime(df['DATA_EXIBICAO'], errors='coerce', format='%d/%m/%Y')
-df['mes'] = df['DATA_EXIBICAO'].dt.month
+# 4.5 Função de data (ex: converter DATA_EXIBICAO para o formato datetime)
+df['DATA_EXIBICAO'] = pd.to_datetime(df['DATA_EXIBICAO'], format='%d/%m/%Y')
 
-# 6) Função de String -> nome da exibidora em maiuscula
-df['RAZAO_SOCIAL_EXIBIDORA_UPPER'] = df['RAZAO_SOCIAL_EXIBIDORA'].str.upper()
+# 4.6 Função de string (ex: extrair o ano da data de exibição e criar uma nova coluna)
+df['Ano_Exibicao'] = df['DATA_EXIBICAO'].dt.year
 
-# Exibir o DataFrame modificado
-print(df)
+# Exibir o resultado final após as manipulações
+print(df.head())
+print(agrupado)

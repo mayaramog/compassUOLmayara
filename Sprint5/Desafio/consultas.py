@@ -31,24 +31,24 @@ csv_data = obj['Body'].read().decode('utf-8')
 # Carregar o arquivo CSV
 df = pd.read_csv(StringIO(csv_data), sep=';')
 
-# 4.1 Filtrar os dados usando dois operadores lógicos (ex: UF_SALA_COMPLEXO e PUBLICO)
+# 1) Filtrar os dados usando dois operadores lógicos (ex: UF_SALA_COMPLEXO e PUBLICO)
 filtro = df[(df['UF_SALA_COMPLEXO'] == 'SP') & (df['PUBLICO'] > 10)]
 
-# 4.2 Duas funções de agregação (ex: média e soma do público por estado)
+# 2) Duas funções de agregação (ex: média e soma do público por estado)
 agrupado = df.groupby('UF_SALA_COMPLEXO')['PUBLICO'].agg(['mean', 'sum']).reset_index()
 
-# 4.3 Função condicional (ex: criar uma nova coluna para indicar se o público foi maior que 10)
+# 3) Função condicional (ex: criar uma nova coluna para indicar se o público foi maior que 10)
 df['Publico_Maior_Que_10'] = df['PUBLICO'].apply(lambda x: 'Sim' if x > 10 else 'Não')
 
-# 4.4 Função de conversão (ex: converter a coluna de público de string para float)
+# 4) Função de conversão (ex: converter a coluna de público de string para float)
 df['PUBLICO'] = pd.to_numeric(df['PUBLICO'], errors='coerce')
 
-# 4.5 Função de data (ex: converter DATA_EXIBICAO para o formato datetime)
+# 5) Função de data (ex: converter DATA_EXIBICAO para o formato datetime)
 df['DATA_EXIBICAO'] = pd.to_datetime(df['DATA_EXIBICAO'], format='%d/%m/%Y')
 
-# 4.6 Função de string (ex: extrair o ano da data de exibição e criar uma nova coluna)
+# 6) Função de string (ex: extrair o ano da data de exibição e criar uma nova coluna)
 df['Ano_Exibicao'] = df['DATA_EXIBICAO'].dt.year
 
-# Exibir o resultado final após as manipulações
+# Exibir o resultado final
 print(df.head())
 print(agrupado)

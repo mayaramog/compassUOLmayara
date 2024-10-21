@@ -2,7 +2,7 @@
 ## Sumário
 - ### [Curso AWS Cloud Quest: Cloud Practitioner](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#curso-aws-cloud-quest-cloud-practitioner-1)
 - ### [Curso AWS Certified Cloud Practitioner](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#curso-aws-certified-cloud-practitioner-1)
-- ### [Exercícios propostos na Sprint 5]()
+- ### [Exercícios propostos na Sprint 5](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#exer%C3%ADcios-propostos-na-sprint-5)
 - ### [Desafios propostos na Sprint 5](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#desafios-propostos-na-sprint-5-1)
 - ### [Dificuldades encontradas](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#dificuldades-encontradas-1)
 - ### [Pontos a melhorar para a próxima Sprint](https://github.com/mayaramog/compassUOLmayara/blob/main/Sprint5/README.md#pontor-a-melhorar-para-a-pr%C3%B3xima-sprint)
@@ -58,7 +58,7 @@ Arquivo criado -> [error.html](/Sprint5/Evidências/Exercícios/error.html)
 
 ```
 - Clausula que filtra os dados usando menos de 2 operadores lógicos
-- Duas fUnções de agregação
+- Duas funções de agregação
 - Uma função condicional
 - Uma função de conversão
 - Uma função de data

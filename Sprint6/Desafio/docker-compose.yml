@@ -1,0 +1,10 @@
+services:
+  upload-csv:
+    build: .
+    volumes:
+      - .:/app
+      - ./csv:/app/csv
+    environment:
+      AWS_ACCESS_KEY_ID: "ASIA5V6I7HPERZLYPPUT"
+      AWS_SECRET_ACCESS_KEY: "LPrB0E3vdp21FwcFlwuJ2iOC/i3mqC1y1gUtxciF"
+    container_name: upload-csv-container

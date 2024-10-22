@@ -142,16 +142,21 @@
 
 ## Exercícios propostos na Sprint 6
 
-- 1
+- [LAB AWS Athena](/Sprint6/Exercícios/labAWSAthena/)
+- [LAB AWS Lambda](/Sprint6/Exercícios/labAWSLambda/)
+- [README dos exercícios da sprint 6](/Sprint6/Exercícios/README.md)
 
 ## Desafios propostos na Sprint 6
 
--
+- [Pasta do desafio com os arquivos requeridos](/Sprint6/Desafio/)
+- [README do desafio da sprint 6](/Sprint6/Desafio/README.md)
 
 ## Dificuldades encontradas
 
--
+- Tive problemas com a criação da camada no exercício de Lambda da AWS, estava dando problema de bibliotecas não instaladas devidamente mesmo seguindo todos os passos especificados no exercício;
+
+- Tive dificuldade para a riação do docker e código python para a leitura dos arquivos CSV para a resolução do desafio, mas com algumas pesquisas consegui contornar rapidamente essa situação.
 
 ## Pontos a melhorar para a próxima Sprint
 
--
+- Gestão de tempo.

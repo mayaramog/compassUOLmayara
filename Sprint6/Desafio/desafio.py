@@ -24,7 +24,7 @@ s3_client = boto3.client(
 # Função para carregar arquivo CSV para o S3
 def upload_to_s3(file_path, bucket_name, object_name):
     try:
-        s3_client.upload_file(file_path, bucket_name, object_name)  # Use 's3_client' aqui
+        s3_client.upload_file(file_path, bucket_name, object_name)
         print(f"Arquivo {file_path} enviado para o bucket {bucket_name} com sucesso.")
     except Exception as e:
         print(f"Erro ao fazer upload para o S3: {e}")
@@ -36,7 +36,7 @@ def processar_csv():
     series_csv = "/app/csv/series.csv"
 
     # Nome do bucket
-    bucket_name = 'desafio-sprint-6'  # Certifique-se de que este nome está correto
+    bucket_name = 'desafio-sprint-6'
 
     # Data atual para organização dos dados no formato ano/mês/dia
     current_date = datetime.now().strftime('%Y/%m/%d')

@@ -23,6 +23,7 @@ s3 = boto3.client(
 
 # Informações do bucket e do arquivo
 file_key = 'bilheteria-diaria-obras-por-exibidoras-2024-08-s04.csv'
+output_key = 'bilheteria-diaria-obras-por-exibidoras-2024-08-s04-consulta.csv'
 
 # Fazer o download do arquivo CSV a partir do S3
 obj = s3.get_object(Bucket=bucket_name, Key=file_key)
@@ -48,6 +49,26 @@ df['DATA_EXIBICAO'] = pd.to_datetime(df['DATA_EXIBICAO'], format='%d/%m/%Y')
 
 # 6) Função de string (ex: extrair o ano da data de exibição e criar uma nova coluna)
 df['Ano_Exibicao'] = df['DATA_EXIBICAO'].dt.year
+
+# Verificar se o arquivo já existe no bucket
+def check_file_exists(bucket_name, key):
+    try:
+        s3.head_object(Bucket=bucket_name, Key=key)
+        return True
+    except s3.exceptions.ClientError:
+        return False
+
+# Se o arquivo não existir, realizar o upload
+if not check_file_exists(bucket_name, output_key):
+    # Salvar o DataFrame em um buffer
+    csv_buffer = StringIO()
+    df.to_csv(csv_buffer, index=False, sep=';')
+
+    # Fazer o upload para o S3
+    s3.put_object(Bucket=bucket_name, Key=output_key, Body=csv_buffer.getvalue())
+    print(f"Arquivo '{output_key}' enviado para o bucket '{bucket_name}'.")
+else:
+    print(f"Arquivo '{output_key}' já existe no bucket '{bucket_name}', não foi enviado.")
 
 # Exibir o resultado final
 print(df.head())

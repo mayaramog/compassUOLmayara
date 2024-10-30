@@ -1,9 +1,9 @@
 # Sprint 7 ⋆
 ## Sumário
-- ### [Curso Udemy]()
-- ### [Desafios propostos na Sprint 7]()
-- ### [Dificuldades encontradas]()
-- ### [Pontos a melhorar para a próxima Sprint]()
+- ### [Curso Udemy](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint7#curso-udemy-1)
+- ### [Desafios propostos na Sprint 7](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint7#desafios-propostos-na-sprint-7-1)
+- ### [Dificuldades encontradas](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint7#dificuldades-encontradas-1)
+- ### [Pontos a melhorar para a próxima Sprint](https://github.com/mayaramog/compassUOLmayara/tree/main/Sprint7#pontos-a-melhorar-para-a-pr%C3%B3xima-sprint-1)
 
 
 ## Curso Udemy

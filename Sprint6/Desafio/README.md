@@ -6,11 +6,14 @@ Nesta seção será descrito sobre o tema de análise a ser feito para a resolu�
 
 Análises:
 
-- **Quantidade de filmes por década**: A análise envolve contar quantos filmes dos gêneros "crime" ou "guerra" foram lançados ao longo das décadas. Isso requer dividir os filmes em grupos de acordo com suas datas de lançamento (organizados por décadas, por exemplo, 1950-1959, 1960-1969, etc.) e contar quantos filmes do gênero de crime / guerra aparecem ao longo das décadas.
+- **Quantidade de avaliações e filmes registrados por década**: A análise envolve contar quantos filmes dos gêneros "crime" ou "guerra" foram lançados ao longo das décadas. Isso requer dividir os filmes em grupos de acordo com suas datas de lançamento (organizados por décadas, por exemplo, 1950-1959, 1960-1969, etc.) e contar quantos filmes do gênero de crime / guerra aparecem ao longo das décadas. Além disso, é importante também se atentar a quantidade de avaliações, os filmes com mais avaliações sugerem uma maior veracidade em sua nota média.
 
-- **Nota média com o passar dos anos**: A análise também deseja deve avaliar a variação na nota média dos filmes desses gêneros ao longo do tempo. A ideia seria verificar como as avaliações desses filmes mudaram ao longo das décadas, observando se houve uma tendência de melhora ou piora nas avaliações.
+- **Participação feminina nos filmes do gênero no século 21  e sua comparação com os demais artistas**: Ao pensar sobre filmes do gênero crime e guerra é interessante refletir sobre a participação feminina nessa questão. Há um pensamento padrão de que maioritariamente artistas masculinos se fazem presentes nesse gênero cinematográfico, a partir das análises será possível identificar esse ponto e o possivel crescimento feminino em filmes do gênero.
 
-O intuito dessas analises escolhidas por mim é verificar se houve um aumento na produção de filmes de crime/guerra ao longo das décadas e identiicar as notas, a partir dessa análise é possivel ter indagações como: "Por que houve um aumento/diminuição da produção de filmes desse estilo?", "Por que essa foi a média da nota dos filmes nessa década?", "Por que as pessoas passaram a avaliar melhor/pior esse tipo de gênero?".
+- **Nota média e duração dos filmes com o passar dos anos**: A análise também deseja deve avaliar a variação na nota média dos filmes desses gêneros ao longo do tempo e se possui alguma relação com a sa duração. A ideia seria verificar como as avaliações desses filmes mudaram ao longo das décadas, observando se houve uma tendência de melhora ou piora nas avaliações.
+
+
+O intuito dessas analises escolhidas por mim é verificar se houve um aumento na produção de filmes de crime/guerra ao longo das décadas e identiicar as notas, a partir dessa análise é possivel ter indagações como: "Por que houve um aumento/diminuição da produção de filmes desse estilo?", "Por que essa foi a média da nota dos filmes nessa década?", "Por que as pessoas passaram a avaliar melhor/pior esse tipo de gênero?". Além de identificar o aumento ou declínio da presença feminina nos filmes desse gênero.
 
 ## Etapas para a conclusão do desafio após a escolha do tema
 - ### Implementação do código python que lê os dois arquivos CSV sem filtrar os dados

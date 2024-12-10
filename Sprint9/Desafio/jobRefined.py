@@ -34,15 +34,15 @@ tabelajson = glueContext.create_dynamic_frame.from_options(
     format="parquet"
 ).toDF()
 
-# Criando a tabela fato
+# Criando a tabela fato e removendo duplicados com base no ID
 fato_avaliacoes = tabelacsv.select(
     F.col("id"),
     F.col("notamedia"),
     F.col("numerovotos"),
     (F.floor(F.col("anolancamento") / 10) * 10).alias("decada")
-)
+).dropDuplicates(["id"])  # Remove duplicados com base no ID
 
-# Criando a dimensão Filme
+# Criando a dimensão Filme e removendo duplicados com base no ID do filme
 dim_filme = tabelacsv.select(
     F.col("id").alias("id_filme"),
     F.col("tituloprincipal"),
@@ -50,23 +50,12 @@ dim_filme = tabelacsv.select(
     F.col("anolancamento"),
     F.col("tempominutos"),
     F.col("genero")
-).distinct()
+).distinct().dropDuplicates(["id_filme"])  # Remove duplicados com base no ID do filme
 
-# Criando a dimensão Artista
-# Selecionando as colunas relevantes de ambas as tabelas
-dim_artista_csv = tabelacsv.select(
-    F.col("id").alias("csv_id"),  # Renomeando id na tabela CSV
-    F.col("nomeartista").alias("nomeartista"),
-    F.col("generoartista").alias("csv_generoartista"),
-    F.col("anonascimento").alias("csv_anonascimento"),
-    F.col("anofalecimento").alias("csv_anofalecimento"),
-    F.col("profissao").alias("csv_profissao"),
-    F.col("titulosmaisconhecidos").alias("csv_titulosmaisconhecidos")
-)
 
 dim_artista_json = tabelajson.select(
     F.col("id").alias("json_id"),  # Renomeando id na tabela JSON
-    F.col("nomeartista").alias("nomeartista"),  # Não renomeando a coluna nomeartista
+    F.col("nomeartista").alias("nomeartista"), 
     F.col("generoartista").alias("json_generoartista"),
     F.col("anonascimento").alias("json_anonascimento"),
     F.col("anofalecimento").alias("json_anofalecimento"),
@@ -74,12 +63,9 @@ dim_artista_json = tabelajson.select(
     F.col("titulosmaisconhecidos").alias("json_titulosmaisconhecidos")
 )
 
-# Unindo as duas tabelas de artistas com base na coluna nomeartista
-dim_artista = dim_artista_csv.join(dim_artista_json, "nomeartista", "outer").distinct()
-
 # Salvando as tabelas na camada Refined
 dim_filme.write.mode("overwrite").partitionBy("anolancamento").parquet("s3://desafio-sprint-6/Refined/dim_filme")
 fato_avaliacoes.write.mode("overwrite").partitionBy("decada").parquet("s3://desafio-sprint-6/Refined/fato_avaliacoes")
-dim_artista.write.mode("overwrite").parquet("s3://desafio-sprint-6/Refined/dim_artista")
+dim_artista_json.write.mode("overwrite").parquet("s3://desafio-sprint-6/Refined/dim_artista")
 
 job.commit()
